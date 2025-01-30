@@ -1,0 +1,6 @@
+com\gregory\models\CollatedOrders.class
+com\gregory\models\Crew.class
+com\gregory\models\Restaurant.class
+com\gregory\models\Order.class
+com\gregory\App.class
+com\gregory\models\User.class
